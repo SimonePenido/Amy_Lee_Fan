@@ -243,7 +243,7 @@ div#stripped4 svg {
 
 div#stripped4 svg polyline {
   fill: none;
-  stroke: rgb(91, 145, 91);
+  stroke: rgb(189, 236, 182);
   stroke-width: 200;
   stroke-dasharray: 20000;
   stroke-dashoffset: 20000;
